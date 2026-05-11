@@ -53,13 +53,14 @@
 
 ## Auto-Discovered Facts
 
-> Last updated by AgentsUpdater after PR #3 (task 1586).
-> Generated: 2026-05-11T05:16:51.716Z
+> Last updated by AgentsUpdater after PR #4 (task 1587).
+> Generated: 2026-05-11T05:30:49.622Z
 
 ### Modified Files
-- `src/components/AddTodoForm.tsx`
+- `src/App.tsx`
+- `src/components/FilterBar.tsx`
 
 ### Exported Symbols
-`AddTodoForm`
+`FilterBar`
 
 <!-- /auto-discovered-facts -->
