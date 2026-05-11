@@ -53,35 +53,19 @@
 
 ## Auto-Discovered Facts
 
-> Last updated by AgentsUpdater after PR #1 (task 1583).
-> Generated: 2026-05-11T04:41:17.059Z
+> Last updated by AgentsUpdater after PR #2 (task 1584).
+> Generated: 2026-05-11T04:58:57.983Z
 
 ### Modified Files
-- `.gitignore`
-- `README.md`
-- `eslint.config.js`
-- `index.html`
 - `package-lock.json`
 - `package.json`
-- `postcss.config.js`
-- `public/favicon.svg`
-- `public/icons.svg`
-- `src/App.css`
-- `src/App.tsx`
-- `src/assets/react.svg`
-- `src/assets/vite.svg`
-- `src/index.css`
-- `src/main.tsx`
 - `src/store.ts`
 - `src/types.ts`
-- `src/utils/id.ts`
-- `tailwind.config.js`
-- `tsconfig.app.json`
-- `tsconfig.json`
-- `tsconfig.node.json`
-- `vite.config.ts`
 
 ### Exported Symbols
-`genId`
+`useStore`
+
+### TypeScript Interfaces / Types
+`StoreState`, `StoreActions`, `Priority`, `Todo`, `FilterState`
 
 <!-- /auto-discovered-facts -->
