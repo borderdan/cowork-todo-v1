@@ -53,19 +53,13 @@
 
 ## Auto-Discovered Facts
 
-> Last updated by AgentsUpdater after PR #2 (task 1584).
-> Generated: 2026-05-11T04:58:57.983Z
+> Last updated by AgentsUpdater after PR #3 (task 1586).
+> Generated: 2026-05-11T05:16:51.716Z
 
 ### Modified Files
-- `package-lock.json`
-- `package.json`
-- `src/store.ts`
-- `src/types.ts`
+- `src/components/AddTodoForm.tsx`
 
 ### Exported Symbols
-`useStore`
-
-### TypeScript Interfaces / Types
-`StoreState`, `StoreActions`, `Priority`, `Todo`, `FilterState`
+`AddTodoForm`
 
 <!-- /auto-discovered-facts -->
