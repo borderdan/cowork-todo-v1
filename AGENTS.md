@@ -53,14 +53,16 @@
 
 ## Auto-Discovered Facts
 
-> Last updated by AgentsUpdater after PR #4 (task 1587).
-> Generated: 2026-05-11T05:30:49.622Z
+> Last updated by AgentsUpdater after PR #5 (task 1585).
+> Generated: 2026-05-11T05:45:06.829Z
 
 ### Modified Files
-- `src/App.tsx`
-- `src/components/FilterBar.tsx`
+- `src/components/TodoItem.tsx`
 
 ### Exported Symbols
-`FilterBar`
+`TodoItem`
+
+### TypeScript Interfaces / Types
+`TodoItemProps`
 
 <!-- /auto-discovered-facts -->
